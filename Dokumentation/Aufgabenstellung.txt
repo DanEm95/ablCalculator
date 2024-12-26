@@ -1,0 +1,11 @@
+🖥Taschenrechner-Aufgabenstellung🖥
+
+Programmiere einen Taschenrechner, mit "OpenEdge" der:
+
+    Punkt vor Strich beherrscht
+    Ohne viele Built-ins auskommt
+    Klammern und lineare Auswertung meistert
+    Mit negativen Zahlen umgehen kann
+    mit Dezimalzahlen rechnen kann und vieles mehr
+
+Entwickle eine elegante, erweiterbare Lösung mit benutzerfreundlicher Ausgabe.
